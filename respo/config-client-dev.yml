@@ -1,5 +1,4 @@
 server:
   port: 8082
 
-foo:
-  foo version 1
+foo: foo version 1
